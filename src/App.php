@@ -1,6 +1,6 @@
 <?php
 
-namespace MiniminPlugins\ExamplePlugin;
+namespace MiniminPackage\ExamplePackage;
 
 class App
 {

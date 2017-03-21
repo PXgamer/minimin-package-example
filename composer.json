@@ -1,5 +1,5 @@
 {
-    "name": "pxgamer/minimin-plugin-example",
+    "name": "pxgamer/minimin-package-example",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,8 +9,11 @@
         }
     ],
     "autoload": {
-		"psr-4": {
-			"MiniminPlugins\\ExamplePlugin\\": "src/"
-		}
-	}
+        "psr-4": {
+            "MiniminPackage\\ExamplePackage\\": "src/"
+        }
+    },
+    "keywords": [
+        "minimin-package"
+    ]
 }
