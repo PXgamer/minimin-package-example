@@ -1,6 +1,6 @@
 # minimin-package-example
 
-An example package for the [Minimin](/pxgamer/minimin) server management tool.
+An example package for the [Minimin](https://github.com/pxgamer/minimin) server management tool.
 
 When installed, if you browse to `/example` it will return a `var_dump()` of the `$route`, such as the following.
 ```text
