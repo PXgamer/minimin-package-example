@@ -2,6 +2,7 @@
     "name": "pxgamer/minimin-package-example",
     "type": "library",
     "license": "MIT",
+	"minimum-stability": "dev"
     "authors": [
         {
             "name": "PXgamer",
