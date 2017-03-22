@@ -1,5 +1,6 @@
 {
     "name": "pxgamer/minimin-package-example",
+	"description": "An example package for the Minimin server management tool.",
     "type": "library",
     "license": "MIT",
 	"minimum-stability": "dev",
