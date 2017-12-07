@@ -4,19 +4,26 @@ All notable changes to `minimin-package-example` will be documented in this file
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
-## NEXT - YYYY-MM-DD
+## 1.0.0 - 2017-12-07
 
 ### Added
-- Nothing
+- Added testing for style, etc.
+- Added markdown files for community
+- Updated README
 
-### Deprecated
-- Nothing
+## 0.0.3 - 2017-03-22
 
-### Fixed
-- Nothing
+### Added
+- Added a new format for package example
 
-### Removed
-- Nothing
+## 0.0.2 - 2017-03-22
 
-### Security
-- Nothing
+### Added
+- Added minimum-stability of `dev`
+- Added an actual output
+- Added the README
+
+## 0.0.1 - 2017-03-21
+
+### Added
+- Initial release
