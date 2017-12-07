@@ -4,6 +4,13 @@ All notable changes to `minimin-package-example` will be documented in this file
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
+## 1.0.0 - 2017-12-07
+
+### Added
+- Added testing for style, etc.
+- Added markdown files for community
+- Updated README
+
 ## 0.0.3 - 2017-03-22
 
 ### Added
