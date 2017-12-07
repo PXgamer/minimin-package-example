@@ -12,12 +12,12 @@
     },
     "autoload": {
         "psr-4": {
-            "pxgamer\\ExamplePackage\\": "src"
+            "MiniminPackage\\ExamplePackage\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "pxgamer\\ExamplePackage\\": "tests"
+            "MiniminPackage\\ExamplePackage\\": "tests"
         }
     },
     "scripts": {
